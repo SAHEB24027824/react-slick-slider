@@ -51,7 +51,7 @@ function App() {
                 </div>
 
                 <div className='p-6 bg-blue-600'>
-                  <p className='font-semibold text-white'>{item.title}</p>
+                  <p className='font-semibold text-white text-center'>{item.title}</p>
                 </div>
               </div>
             )
